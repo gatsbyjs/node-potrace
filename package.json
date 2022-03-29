@@ -1,6 +1,6 @@
 {
   "name": "@gatsbyjs/potrace",
-  "version": "2.1.8",
+  "version": "2.2.0",
   "description": "Potrace in Javascript, for NodeJS",
   "main": "lib/index.js",
   "scripts": {
