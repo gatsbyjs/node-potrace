@@ -8,7 +8,7 @@ var _ = require('lodash'),
 require('should-sinon');
 
 var fs = require('fs'),
-    Jimp = require('jimp'),
+    Jimp = require('jimp-compact'),
     Potrace = require('../lib/Potrace'),
     Posterizer = require('../lib/Posterizer'),
     Histogram = require('../lib/types/Histogram'),
