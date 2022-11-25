@@ -1,6 +1,6 @@
 {
   "name": "@gatsbyjs/potrace",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "description": "Potrace in Javascript, for NodeJS",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "posterization"
   ],
   "author": "mattmc",
-  "license": "GPL-3.0",
+  "license": "GPL-2.0",
   "bugs": {
     "url": "https://github.com/tooolbox/node-potrace/issues"
   },
